@@ -10,8 +10,6 @@ This is a simple web-based calculator built using HTML and CSS. You can perform 
 
 - Stylish and modern user interface.
 
-- Responsive design that works well on both desktop and mobile devices.
-
 - Clear button (C) to reset the input.
 
 - Calculation result displayed in a user-friendly format.
